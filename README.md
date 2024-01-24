@@ -32,7 +32,7 @@ site-tools-client -j domain update id=1 settings.protect_captcha_auto=0
 
 ## Run WP-CLI via specific PHP version
 
-Currently, WP-CLI at SiteGround still runs via PHP 7.4, regardless of which PHP version you set via the SiteTools.
+Currently, WP-CLI at SiteGround still runs via PHP `7.4`, regardless of which PHP version you set via the SiteTools.
 Through SiteGround support we learned that WP-CLI can also be run via other PHP versions:
 
 ```
